@@ -31,8 +31,7 @@ This is a PocketMine-MP plugin that allows players to turn flight mode on and of
 
 The main command of the plugin is `/fly`. Below are the details of the command:
 
-## Command: `/fly <on|off>`
-
+Command: `/fly <on|off>`
 - `on`: Activate flight mode.
 - `off`: Deactivates flight mode.
 
