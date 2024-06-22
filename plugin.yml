@@ -2,9 +2,9 @@ name: Fly
 main: TStark\Fly\Main
 version: 1.0.0
 api: 5.0.0
-author: TStark
-description: Fly mode.
-website: https://mcpetools.surge.sh
+author: §bT. Stark
+description: §6Fly command mode.
+website: §ahttps://mcpetools.surge.sh
 
 commands:
   fly:
